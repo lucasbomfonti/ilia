@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ilia.CrossCutting\Ilia.CrossCutting.csproj" />
+    <ProjectReference Include="..\Ilia.Data\Ilia.Data.csproj" />
+  </ItemGroup>
+
+</Project>

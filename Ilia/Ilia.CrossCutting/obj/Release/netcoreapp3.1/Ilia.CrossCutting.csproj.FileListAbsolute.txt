@@ -1,0 +1,11 @@
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\bin\Release\netcoreapp3.1\Ilia.CrossCutting.deps.json
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\bin\Release\netcoreapp3.1\Ilia.CrossCutting.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\bin\Release\netcoreapp3.1\Ilia.CrossCutting.pdb
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\bin\Release\netcoreapp3.1\Ilia.Domain.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\bin\Release\netcoreapp3.1\Ilia.Domain.pdb
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\obj\Release\netcoreapp3.1\Ilia.CrossCutting.csprojAssemblyReference.cache
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\obj\Release\netcoreapp3.1\Ilia.CrossCutting.AssemblyInfoInputs.cache
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\obj\Release\netcoreapp3.1\Ilia.CrossCutting.AssemblyInfo.cs
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\obj\Release\netcoreapp3.1\Ilia.CrossCutting.csproj.CopyComplete
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\obj\Release\netcoreapp3.1\Ilia.CrossCutting.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.CrossCutting\obj\Release\netcoreapp3.1\Ilia.CrossCutting.pdb

@@ -1,0 +1,15 @@
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.Business.deps.json
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.Business.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.Business.pdb
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.CrossCutting.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.Data.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.Domain.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.CrossCutting.pdb
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.Data.pdb
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\bin\Release\netcoreapp3.1\Ilia.Domain.pdb
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\obj\Release\netcoreapp3.1\Ilia.Business.csprojAssemblyReference.cache
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\obj\Release\netcoreapp3.1\Ilia.Business.AssemblyInfoInputs.cache
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\obj\Release\netcoreapp3.1\Ilia.Business.AssemblyInfo.cs
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\obj\Release\netcoreapp3.1\Ilia.Business.csproj.CopyComplete
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\obj\Release\netcoreapp3.1\Ilia.Business.dll
+C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Business\obj\Release\netcoreapp3.1\Ilia.Business.pdb

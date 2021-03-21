@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ilia.Data</id>
+    <version>1.0.0</version>
+    <authors>Ilia.Data</authors>
+    <owners>Ilia.Data</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Ilia.CrossCutting" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Ilia.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper.Extensions.Microsoft.DependencyInjection" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Abstractions" version="5.0.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.InMemory" version="5.0.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Proxies" version="5.0.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.4" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Data\bin\Release\netcoreapp3.1\Ilia.Data.runtimeconfig.json" target="lib\netcoreapp3.1\Ilia.Data.runtimeconfig.json" />
+    <file src="C:\GitHome\dotNETRestfulChallenge\Ilia\Ilia\Ilia.Data\bin\Release\netcoreapp3.1\Ilia.Data.dll" target="lib\netcoreapp3.1\Ilia.Data.dll" />
+  </files>
+</package>

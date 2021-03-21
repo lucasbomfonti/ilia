@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27e85935_002D28d7_002D4089_002Dadb5_002D07f027c7873d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BadRequest_When_Called_Post_Without_Email" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::43998A9B-1AF7-496F-8817-1A244751D36D::.NETCoreApp,Version=v3.1::Ilia.Api.Test.CustomerControllerTest.BadRequest_When_Called_Post_Without_Email&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::43998A9B-1AF7-496F-8817-1A244751D36D::.NETCoreApp,Version=v3.1::Ilia.Api.Test.CustomerControllerTest.BadRequest_When_Called_Post_With_Invalid_Email&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f64adeeb_002D4314_002D4610_002Da4bf_002Da3ea508edc30/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BadRequest_When_Called_Post_With_Invalid_Email" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::43998A9B-1AF7-496F-8817-1A244751D36D::.NETCoreApp,Version=v3.1::Ilia.Api.Test.CustomerControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  ilia.api:
+    image: iliaapi
+    container_name: Ilia.api
+    ports:
+      - 8081:80
+    build:
+      context: .
+      dockerfile: Ilia.Api/Dockerfile
+    restart: always
