@@ -27,7 +27,7 @@ namespace Ilia.Data.RepositoryReadOnly
                        .Include(f => f.PhoneContact)
                        .Include(f => f.Address)
                        .FirstOrDefaultAsync(f => f.Id.Equals(id) && f.Active)
-                       ?? throw new NotFoundException("no records found");
+                       ?? throw new NotFoundException("customer not found");
         }
 
         public override async Task<List<Customer>> All()
