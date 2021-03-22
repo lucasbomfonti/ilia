@@ -7,12 +7,12 @@ namespace Ilia.Domain
     public class User : BaseEntity
     {
         [Required]
-        [Column(TypeName = "VARCHAR(40)")]
-        [StringLength(40)]
+        [Column(TypeName = "VARCHAR(100)")]
+        [StringLength(100)]
         public string Username { get; set; }
         [Required]
-        [Column(TypeName = "VARCHAR(40)")]
-        [StringLength(40)]
+        [Column(TypeName = "VARCHAR(100)")]
+        [StringLength(100)]
         public string Password { get; set; }
     }
 }
