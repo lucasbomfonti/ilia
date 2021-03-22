@@ -3,6 +3,7 @@
 ## WebApi .NET Core desenvolvida na versão 3.1 do framework.
 
 ### Algumas informações sobre o desenvolvimento da API:
+* Foi adicionado uma método Get onde espera por parâmetro um modelo de filtro, assim possibilitando a visualização de todos os clientes que dividem a mesma Rua, Cidade, Estado, CEP e País
 * A arquitetura escolhida foi Onion Architecture.
 * Foi implementado um modelo de entidade anêmica, ou seja, as entidades são apenas representações do banco de dados, dessa forma, a regra de negócio ficava na responsabilidade apenas da camana de serviço.
 * Para a camada de acesso a dados foi implementado Repository Pattern.
